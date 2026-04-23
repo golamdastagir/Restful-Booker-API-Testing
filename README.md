@@ -20,7 +20,7 @@ I tested core booking APIs, validated responses, and generated an automated HTML
 ## 📊 Test Report (Live)
 
 👉 View full report here:
-🔗 **linking**
+🔗 **[Newman Report](https://golamdastagir.github.io/Restful-Booker-API-Testing/Reports/RestfulBooker-2026-04-23-06-40-42-162-0.html)**
 
 ---
 
