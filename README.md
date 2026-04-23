@@ -1,2 +1,33 @@
-# Restful-Booker-API-Testing
-This project showcases my hands-on experience with API testing using Postman and Newman.  I tested the APIs of the Restful Booker API, focusing on validating functionality, response structure, and status codes.
+# 🔗 Restful Booker API Testing
+
+## 👋 Overview
+
+This project demonstrates **API testing using Postman and Newman** on the **Restful Booker API**.
+
+I tested core booking APIs, validated responses, and generated an automated HTML report.
+
+---
+
+## 🧪 What I Did
+
+* Tested CRUD APIs (Create, Get, Update, Delete)
+* Wrote assertions for status codes & response validation
+* Used **Postman dynamic data** (`{{$random...}}`) for realistic inputs
+* Generated test report using **Newman + HTMLExtra**
+
+---
+
+## 📊 Test Report (Live)
+
+👉 View full report here:
+🔗 **linking**
+
+---
+
+
+## 💡 Key Learning
+
+* API validation & assertions
+* Dynamic test data handling
+* Automated test execution with Newman
+* Report generation for test results
